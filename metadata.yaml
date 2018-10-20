@@ -1,5 +1,5 @@
 _repo: The-Odes-and-Carmen-Saeculare-of-Horace_5432
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Conington, John
@@ -37,5 +37,6 @@ subjects:
 - !lcc 'PA'
 - !lcsh 'Horace -- Translations into English'
 - !lcsh 'Laudatory poetry, Latin -- Translations into English'
+- GITenberg
 title: The Odes and Carmen Saeculare of Horace
 url: http://www.gutenberg.org/ebooks/5432
